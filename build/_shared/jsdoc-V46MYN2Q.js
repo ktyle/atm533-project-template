@@ -1,1 +1,1 @@
-import{a}from"/cookbook-template/build/_shared/chunk-XAMG5VQS.js";import"/cookbook-template/build/_shared/chunk-QXPMMO3F.js";import"/cookbook-template/build/_shared/chunk-ZOXRFJWB.js";import"/cookbook-template/build/_shared/chunk-2NH4LW52.js";export default a();
+import{a}from"/atm533-project-template/build/_shared/chunk-XAMG5VQS.js";import"/atm533-project-template/build/_shared/chunk-QXPMMO3F.js";import"/atm533-project-template/build/_shared/chunk-ZOXRFJWB.js";import"/atm533-project-template/build/_shared/chunk-2NH4LW52.js";export default a();
