@@ -3,19 +3,13 @@ version: 1
 extends:
   - https://raw.githubusercontent.com/projectpythia/pythia-config/main/pythia.yml
 project:
-  title: Project Pythia Cookbook Template
+  title: ATM 533 Reproducible Project Example
   github: https://github.com/projectpythia/cookbook-template
-  authors:
-    - name: The Project Pythia Community
-  copyright: '2024'
+  copyright: '2025'
+  bibliography: 
+    - references.bib
   toc:
-    - file: README.md
-    - title: Preamble
-      children:
-        - file: notebooks/how-to-cite.md
-    - title: Introduction
-      children:
-        - file: notebooks/notebook-template.ipynb
-  jupyter:
-      binder:
-        repo: projectpythia/cookbook-template
+    - file: 01-Paper.md
+    - file: notebooks/509_Plots.ipynb
+site:
+  template: book-theme
